@@ -4,7 +4,7 @@ This repository contains Standard Operating Procedures (SOPs) for custom Shopify
 
 These documents serve as technical references for e-commerce engineers and developers maintaining enterprise-level Shopify storefronts.
 
-## 📚 Available SOPs
+## Available SOPs
 
 | ID | Title | Description |
 |----|-------|-------------|
@@ -13,7 +13,7 @@ These documents serve as technical references for e-commerce engineers and devel
 | **[SOP-003](SOP-003-popup-form-system.md)** | Custom Popup Form System Architecture | Building a reusable, section-based popup form system with JavaScript instantiation and asynchronous Formspree submissions. |
 | **[SOP-004](SOP-004-popup-faq-and-blog-triggers.md)** | Popup Form Triggers for FAQs and Blog Posts | Specialized implementation patterns for triggering popups via hidden buttons and JavaScript intercepts in complex sections. |
 
-## 🛠️ Tech Stack Covered
+## Tech Stack Covered
 - **Shopify Liquid:** Snippet rendering, variable scoping, parameter passing, and template suffix logic.
 - **JavaScript:** Class instantiation, DOM manipulation, event interception, and asynchronous `fetch()` API usage.
 - **Shopify Architecture:** Section/snippet relationships, schema configuration, metafields, and inventory location logic.
