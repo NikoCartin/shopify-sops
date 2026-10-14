@@ -1,5 +1,10 @@
 # Shopify Theme Development SOPs
 
+<p align="center">
+  <img src="assets/shopify-sops-banner.png" alt="Shopify Theme Development SOPs" width="100%"/>
+</p>
+
+
 This repository contains Standard Operating Procedures (SOPs) for custom Shopify theme development, focusing on reusable architecture patterns, complex Liquid logic, and front-end JavaScript integrations.
 
 These documents serve as technical references for e-commerce engineers and developers maintaining enterprise-level Shopify storefronts.
